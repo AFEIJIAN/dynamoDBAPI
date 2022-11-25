@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cyclic-dynamodb": "^0.0.27"
+  }
+}
